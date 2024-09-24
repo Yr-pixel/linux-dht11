@@ -1,6 +1,7 @@
 A simple stand-alone DHT11 driver for linux.
+Yes, there is a DHT11 driver in the kern
 
-Yes, there is a DHT11 driver in the kernel tree, but it fails if DHT11 returns
+el tree, but it fails if DHT11 returns
 fractional results as mine does. Not sure if that's the behavior of an older
 version of the device or is just a bug.
 
